@@ -27,7 +27,7 @@
 ### Current project 💻
 - [Seven-Chakras](https://github.com/bassammaged/Seven-Chakras)
 
-### Languages <img src="https://github.com/bassammaged/bassammaged/blob/master/images/icon-langauges.png" height=5>
+### Languages <img src="https://github.com/bassammaged/bassammaged/blob/master/images/icon-langauges.png" height=100>
 <p>
 <img src="https://img.shields.io/badge/Arabic-Native-brightgreen" height=18> <img src="https://img.shields.io/badge/English-Professional-yellowgreen" height=18> <img src="https://img.shields.io/badge/Ukrainian-Beginner-blue" height=18>
 </p>

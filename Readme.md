@@ -6,7 +6,8 @@
 <p align="center">When I'm not securing or coding, you can find me Playing VR or FPS games, watching Netflix, Sports (shooting, parachuting or football :soccer:) or listening to music. Memes are something that are appreciated very much 😂. </p>
 
 <p align="center"><a href="https://twitter.com/bassammaged_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/bassammaged/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
-```
+
+
 ### Work experience 👔
 | Job Position                      | Company           | Work Period               |
 | --------------------------------- | ----------------- | ------------------------- |

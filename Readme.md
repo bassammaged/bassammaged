@@ -1,4 +1,4 @@
-<h2 align="center">Hello|Привіт! My name is Bassam Maged. 👋🤓</h2>
+<h2 align="center">Привіт! My name is Bassam Maged. 👋🤓</h2>
 
 ### About me :space_invader: 
 <p>I'm currently a Cyber Security Engineer at Instabug. Graduated from BIS (Business Information System) major, Helwan University:student:. I am passionate about securing systems or ruining down them :man_technologist:. You can also find me interested in coding :man_technologist: and how we can use coding to make our life easier and safer; I've started exploring more about application security and threat intelligence ✨ and hope to contribute to the cyber security community. 
@@ -27,8 +27,8 @@
 ### Current project 💻
 - [Seven-Chakras](https://github.com/bassammaged/Seven-Chakras)
 
-### Languages 💻
-<p align="center">
+### Languages <img src="https://github.com/bassammaged/bassammaged/images/icon-langauges.png" height=5>
+<p>
 <img src="https://img.shields.io/badge/Arabic-Native-brightgreen" height=18> <img src="https://img.shields.io/badge/English-Professional-yellowgreen" height=18> <img src="https://img.shields.io/badge/Ukrainian-Beginner-blue" height=18>
 </p>
 

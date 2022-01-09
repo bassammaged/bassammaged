@@ -24,3 +24,6 @@
 - Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=14> 
 - Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=14> 
 - Nessus Certification of Proficiency <img src="https://img.shields.io/badge/Certificate%20ID-E--5VN4Q1-brightgreen" height=14> 
+
+### Github Stats ⭐
+[![Bassam Maged' github stats](https://github-readme-stats.vercel.app/api?username=bassammaged&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

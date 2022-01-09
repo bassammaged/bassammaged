@@ -17,10 +17,10 @@
 | Information Security Specialist   | Xceed             | 02.2019 — 09.2019         |
 
 ### Certifications 📜
-- Mobile Application Penetration Tester (eMAPT) <img src="https://img.shields.io/badge/Certificate%20ID-1601880-brightgreen" height=25>
-- Web Application Penetration Tester eXtreme (eWPTX) <img src="https://img.shields.io/badge/Certificate%20ID-7990389-brightgreen" height=25>
-- Web Application Penetration Tester (eWPT) <img src="https://img.shields.io/badge/Certificate%20ID-7548385-brightgreen" height=25>
-- Certified professional Penetration Tester (eCPPT) <img src="https://img.shields.io/badge/Certificate%20ID-4717440-brightgreen" height=25> 
-- Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=25> 
-- Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=25> 
-- Nessus Certification of Proficiency <img src="https://img.shields.io/badge/Certificate%20ID-E--5VN4Q1-brightgreen" height=25> 
+- Mobile Application Penetration Tester (eMAPT) <img src="https://img.shields.io/badge/Certificate%20ID-1601880-brightgreen" height=10>
+- Web Application Penetration Tester eXtreme (eWPTX) <img src="https://img.shields.io/badge/Certificate%20ID-7990389-brightgreen" height=10>
+- Web Application Penetration Tester (eWPT) <img src="https://img.shields.io/badge/Certificate%20ID-7548385-brightgreen" height=10>
+- Certified professional Penetration Tester (eCPPT) <img src="https://img.shields.io/badge/Certificate%20ID-4717440-brightgreen" height=10> 
+- Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=10> 
+- Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=10> 
+- Nessus Certification of Proficiency <img src="https://img.shields.io/badge/Certificate%20ID-E--5VN4Q1-brightgreen" height=10> 

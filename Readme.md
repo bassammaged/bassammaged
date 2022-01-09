@@ -8,13 +8,14 @@
 
 <p align="center"><a href="https://twitter.com/bassammaged_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/bassammaged/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
-
-### Work experience 👔
+<h2 align="center">Work experience 👔</h2>
+<p align="center">
 | Job Position                      | Company           | Work Period               |
 | --------------------------------- | ----------------- | ------------------------- |
 | **Cyber Security Engineer**       | **Instabug Inc**  | **08.2021 — until now**   |
 | Information Security Engineer     | Arrow Electronics | 12.2019 — 05.2021         |
 | Information Security Specialist   | Xceed             | 02.2019 — 09.2019         |
+</p>
 
 ### Certifications 📜
 - Mobile Application Penetration Tester (eMAPT) <img src="https://img.shields.io/badge/Certificate%20ID-1601880-brightgreen" height=14>

@@ -27,6 +27,10 @@
 ### Current project 💻
 - [Seven-Chakras](https://github.com/bassammaged/Seven-Chakras)
 
+### Honors and Awards :tada:
+- TOP Fresh New Skilled `August 2020 | Arrow Electronics` 
+- Bug Hunting Acknowledgement `2021-2022 | Microsoft – Sophos` 
+
 ### Languages 📖
 <p>
 <img src="https://img.shields.io/badge/Arabic-Native-brightgreen" height=18> <img src="https://img.shields.io/badge/English-Professional-yellowgreen" height=18> <img src="https://img.shields.io/badge/Ukrainian-Beginner-blue" height=18>

@@ -1,10 +1,10 @@
-<h2 align="center">Hello there! My name is Bassam Maged. 👋🤓</h2>
+<h2 align="center">Hello|Привіт! My name is Bassam Maged. 👋🤓</h2>
 
 ### About me :space_invader: 
 <p align="center">I'm currently a Cyber Security Engineer at Instabug. Graduated from BIS (Business Information System) major, Helwan University:student:. I am passionate about securing systems or ruining down them :man_technologist:. You can also find me interested in coding :man_technologist: and how we can use coding to make our life easier and safer; I've started exploring more about application security and threat intelligence ✨ and hope to contribute to the cyber security community. 
 </p>
 
-<p align="center">When I'm not securing or coding, you can find me Playing VR or FPS games, watching Netflix, Sports (shooting, parachuting or football :soccer:) or listening to music. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not securing or coding, you can find me in the virtual reality, playing FPS games, watching Netflix, Sports (shooting, parachuting or football :soccer:), listening to music. Memes are appreciated very much 😂. </p>
 
 <p align="center"><a href="https://twitter.com/bassammaged_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/bassammaged/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
@@ -25,5 +25,16 @@
 - Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=14> 
 - Nessus Certification of Proficiency <img src="https://img.shields.io/badge/Certificate%20ID-E--5VN4Q1-brightgreen" height=14> 
 
+### Current project 💻
+- [Seven-Chakras](https://github.com/bassammaged/Seven-Chakras)
+
+### Languages 💻
+<p align="center">
+<img src="https://img.shields.io/badge/Arabic-Native-brightgreen" height=25> <img src="https://img.shields.io/badge/English-Professional-yellowgreen" height=25> <img src="https://img.shields.io/badge/Ukrainian-Beginner-blue" height=25>
+</p>
+
 ### Github Stats ⭐
 [![Bassam Maged' github stats](https://github-readme-stats.vercel.app/api?username=bassammaged&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Qoutes
+> Life begins at the end of your comfort zone.

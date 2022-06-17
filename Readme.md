@@ -1,7 +1,7 @@
 <h2 align="center">Привіт! My name is Bassam Maged. 👋🤓</h2>
 
 ### About me :space_invader: 
-<p>I'm currently a Cyber Security Engineer at Instabug. Graduated from BIS (Business Information System) major, Helwan University:student:. I am passionate about securing systems or ruining down them :man_technologist:. You can also find me interested in coding :man_technologist: and how we can use coding to make our life easier and safer; I've started exploring more about application security and threat intelligence ✨ and hope to contribute to the cyber security community. 
+<p>I'm currently a Application Security Engineer at Ocado Technology. Graduated from BIS (Business Information System) major, Helwan University:student:. I am passionate about securing systems or taking them down :man_technologist:. You can also find me interested in coding :man_technologist: and how we can use coding to make our life easier and safer; I've started exploring more about application security and threat intelligence ✨ and hope to contribute to the cyber security community. 
 </p>
 
 <p>When I'm not securing or coding, you can find me in the virtual reality, playing FPS games, watching Netflix, Sports (shooting, parachuting or football :soccer:), listening to music. Memes are appreciated very much 😂. </p>

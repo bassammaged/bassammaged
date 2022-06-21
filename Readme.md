@@ -9,20 +9,21 @@
 <p align="center"><a href="https://twitter.com/bassammaged_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/bassammaged/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 ### Work experience 👔
-| Job Position                      | Company           | Work Period               |
-| --------------------------------- | ----------------- | ------------------------- |
-| **Cyber Security Engineer**       | **Instabug Inc**  | **08.2021 — until now**   |
-| Information Security Engineer     | Arrow Electronics | 12.2019 — 05.2021         |
-| Information Security Specialist   | Xceed             | 02.2019 — 09.2019         |
+| Job Position                      | Company               | Work Period               |
+| --------------------------------- | --------------------  | ------------------------- |
+| **Application Security Engineer** | **Ocado Technology**  | **06.2021 — until now**   |
+| **Cyber Security Engineer**       | **Instabug Inc**      | **08.2021 — 05.2022**     |
+| Information Security Engineer     | Arrow Electronics     | 12.2019 — 05.2021         |
+| Information Security Specialist   | Xceed                 | 02.2019 — 09.2019         |
 
 ### Certifications 📜
-- Mobile Application Penetration Tester (eMAPT) <img src="https://img.shields.io/badge/Certificate%20ID-1601880-brightgreen" height=14>
-- Web Application Penetration Tester eXtreme (eWPTX) <img src="https://img.shields.io/badge/Certificate%20ID-7990389-brightgreen" height=14>
-- Web Application Penetration Tester (eWPT) <img src="https://img.shields.io/badge/Certificate%20ID-7548385-brightgreen" height=14>
-- Certified professional Penetration Tester (eCPPT) <img src="https://img.shields.io/badge/Certificate%20ID-4717440-brightgreen" height=14> 
-- Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=14> 
-- Junior Penetration Tester (eJPT) <img src="https://img.shields.io/badge/Certificate%20ID-3259960-brightgreen" height=14> 
-- Nessus Certification of Proficiency <img src="https://img.shields.io/badge/Certificate%20ID-E--5VN4Q1-brightgreen" height=14> 
+- Mobile Application Penetration Tester (eMAPT)
+- Web Application Penetration Tester eXtreme (eWPTX)
+- Web Application Penetration Tester (eWPT)
+- Certified professional Penetration Tester (eCPPT)
+- Junior Penetration Tester (eJPT)
+- Junior Penetration Tester (eJPT)
+- Nessus Certification of Proficiency
 
 ### Current project 💻
 - [Seven-Chakras](https://github.com/bassammaged/Seven-Chakras)
@@ -30,11 +31,13 @@
 ### Honors and Awards :tada:
 - TOP Fresh New Skilled `August 2020 | Arrow Electronics` 
 - Bug Hunting Acknowledgement `2021-2022 | Microsoft – Sophos` 
+- Ultimate team for 2021Q4 'January 2022 | Intsbug Inc.'
 
 ### Languages 📖
-<p>
-<img src="https://img.shields.io/badge/Arabic-Native-brightgreen" height=18> <img src="https://img.shields.io/badge/English-Professional-yellowgreen" height=18> <img src="https://img.shields.io/badge/Ukrainian-Beginner-blue" height=18>
-</p>
+- Arabic.
+- English
+- Ukrainian
+
 
 ### Github Stats ⭐
 [![Bassam Maged' github stats](https://github-readme-stats.vercel.app/api?username=bassammaged&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

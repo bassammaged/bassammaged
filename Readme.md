@@ -12,7 +12,7 @@
 | Job Position                      | Company               | Work Period               |
 | --------------------------------- | --------------------  | ------------------------- |
 | **Application Security Engineer** | **Ocado Technology**  | **06.2021 — until now**   |
-| **Cyber Security Engineer**       | **Instabug Inc**      | **08.2021 — 05.2022**     |
+| Cyber Security Engineer           | Instabug Inc          | 08.2021 — 05.2022         |
 | Information Security Engineer     | Arrow Electronics     | 12.2019 — 05.2021         |
 | Information Security Specialist   | Xceed                 | 02.2019 — 09.2019         |
 

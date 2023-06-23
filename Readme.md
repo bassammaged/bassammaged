@@ -23,7 +23,6 @@
 - Web Application Penetration Tester (eWPT)
 - Certified professional Penetration Tester (eCPPT)
 - Junior Penetration Tester (eJPT)
-- Junior Penetration Tester (eJPT)
 - Nessus Certification of Proficiency
 
 ### Current project 💻

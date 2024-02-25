@@ -11,6 +11,7 @@
 ### Work experience 👔
 | Job Position                      | Company               | Work Period               |
 | --------------------------------- | --------------------  | ------------------------- |
+| Application Security Engineer     | Intellias             | 08.2023 — Present         |
 | Application Security Engineer     | Ocado Technology      | 06.2022 — 07.2023         |
 | Cyber Security Engineer           | Instabug Inc          | 08.2021 — 05.2022         |
 | Information Security Engineer     | Arrow Electronics     | 12.2019 — 05.2021         |
@@ -26,7 +27,7 @@
 - Nessus Certification of Proficiency
 
 ### Current project 💻
-- [Seven-Chakras](https://github.com/bassammaged/Seven-Chakras)
+- [intelli-sleuth](https://github.com/Secranix-Security-Services/intelli-sleuth)
 
 ### Honors and Awards :tada:
 - TOP Fresh New Skilled `August 2020 | Arrow Electronics` 
